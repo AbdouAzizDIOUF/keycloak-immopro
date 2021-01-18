@@ -1,0 +1,1 @@
+2021-01-11 08:45:37,921 WARN  [org.keycloak.events] (default task-95) type=CUSTOM_REQUIRED_ACTION_ERROR, realmId=IMMO-REALM, clientId=null, userId=null, ipAddress=41.83.20.220, error=expired_code, restart_after_timeout=true, authSessionParentId=8b03e8c6-2371-49df-a415-51e1183f1c18, authSessionTabId=l5sksMvPdkw

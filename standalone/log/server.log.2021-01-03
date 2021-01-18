@@ -1,0 +1,4 @@
+2021-01-03 00:38:14,863 WARN  [org.keycloak.events] (default task-17) type=LOGIN_ERROR, realmId=IMMO AGENCE, clientId=null, userId=null, ipAddress=89.80.129.6, error=invalid_code
+2021-01-03 00:38:19,535 WARN  [org.keycloak.events] (default task-17) type=LOGIN_ERROR, realmId=IMMO AGENCE, clientId=null, userId=null, ipAddress=89.80.129.6, error=invalid_code
+2021-01-03 03:00:07,836 WARN  [org.keycloak.events] (default task-17) type=REFRESH_TOKEN_ERROR, realmId=IMMO AGENCE, clientId=AngularImmoApp, userId=null, ipAddress=89.80.129.6, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
+2021-01-03 18:43:49,945 WARN  [org.keycloak.events] (default task-17) type=REFRESH_TOKEN_ERROR, realmId=IMMO AGENCE, clientId=AngularImmoApp, userId=null, ipAddress=82.121.196.189, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
